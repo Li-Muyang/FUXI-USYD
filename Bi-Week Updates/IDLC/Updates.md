@@ -19,3 +19,15 @@
 1. label noise learning workshop/competition - 数据问题
 
 2. 刘老师分享（topic 在 trustworthy/data centric）
+
+3.31 Meetings
+上周总结：
+
+1. 经刘老师建议，把setting改到semi-supervised learning下
+2. 在USB library (https://github.com/microsoft/Semi-supervised-learning)尝试实现我们的方法
+3. 熟悉半监督的setting和现有的工作
+
+
+本周
+1. 完成了文章intro部分的写作
+2. 在USB library下实现了我们的方法, 正在收集结果
