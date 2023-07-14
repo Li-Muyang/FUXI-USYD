@@ -39,11 +39,12 @@
 2. 提前多久和刘老师确定talk的时长
 3. 希望刘老师从标签噪声生成的角度谈一下这个问题 （哪些误差是随机造成，哪些是固定误差）
 
-4.14 Meeting
+7.14 meeting
 
-上周&本周总结：
+上周问题：
 
-1. 完成了Related work,Prelimnary部分的写作，Methods和Experiment的主题框架也完成了
-2. 目前与SOTA的差距基本上在1-2个百分点
-3. 图数据形式总结:
-  1. 社交网络(Reddit,)
+1. 刘老师分享时间确定(八月初)
+2. 分享内容, 标签噪声+半监督
+3. Cora数据集简化(不成功)
+4. 继续寻找新的图结构数据集
+5. cross-domain evaluation调研(https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Are_Labels_Always_Necessary_for_Classifier_Accuracy_Evaluation_CVPR_2021_paper.pdf)
