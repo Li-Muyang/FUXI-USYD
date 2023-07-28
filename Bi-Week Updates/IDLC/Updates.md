@@ -48,3 +48,9 @@
 3. Cora数据集简化(不成功)
 4. 继续寻找新的图结构数据集
 5. cross-domain evaluation调研(https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Are_Labels_Always_Necessary_for_Classifier_Accuracy_Evaluation_CVPR_2021_paper.pdf)
+
+7.28 meeting
+上周问题：
+1. 继续寻找新的图结构数据集(wiki-CS)
+2. 
+
