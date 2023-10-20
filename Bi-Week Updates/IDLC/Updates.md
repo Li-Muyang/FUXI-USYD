@@ -59,3 +59,12 @@
 2. 多模态数据集标注成本估计
 3. 继续寻找新的图结构数据集
 
+10.20 meeting
+上周问题：
+1. CLIP工作总结调研
+
+总结：
+1. CLIP confidence的evaluation(验证实验)
+2. InstanT专利问题咨询刘老师
+3. 继续camera-ready以及现有工作
+
