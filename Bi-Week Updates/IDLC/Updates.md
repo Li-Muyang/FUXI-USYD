@@ -68,3 +68,14 @@
 2. InstanT专利问题咨询刘老师
 3. 继续camera-ready以及现有工作
 
+12.08 meeting
+上周问题：
+1. 继续ICML coreset实验
+
+总结：
+1. 寻找研究方向与业务问题的共同来确定新工作
+
+12.22 meeting
+上周问题：
+1. NeurIPS参会
+
